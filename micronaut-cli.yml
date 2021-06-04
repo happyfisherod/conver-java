@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.primari.backend
+---
+testFramework: junit
+sourceLanguage: java
